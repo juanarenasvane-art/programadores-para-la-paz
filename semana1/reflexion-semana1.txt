@@ -1,0 +1,7 @@
+El uso responsable de la información en internet y la participación ciudadana van de la mano porque lo que uno comparte puede influir en cómo otros entienden la realidad, de pronto sin que uno lo note.
+Compartir algo sin verificar no siempre es con mala intención pero el daño ya está hecho igual, y eso termina afectando decisiones que importan.
+Por eso ser ciudadano digital responsable no es solo cuidarse uno mismo sino pensar en el impacto de lo que uno publica.
+Herramientas como Git tienen más relación con esto de lo que parece porque también se trata de orden y trazabilidad.
+Git registra cada cambio, quién lo hizo y cuándo, lo que obliga a trabajar con criterio y no de forma impulsiva.
+Esa misma lógica debería aplicar cuando manejamos información: saber de dónde viene y si sigue siendo válida.
+En resumen la ciudadanía digital y Git comparten una base, la consciencia de que todo lo que uno hace deja un registro y tiene consecuencias.
