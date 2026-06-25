@@ -1,0 +1,14 @@
+Sistema operativo:
+Es la base sobre la que corre todo lo demás. En este caso Linux, que es el sistema que usa Codespaces y la mayoría de servidores en producción.
+
+Node.js:
+Es el entorno que permite ejecutar JavaScript fuera del navegador. Sin él no sería posible correr el archivo server.js ni responder solicitudes.
+
+Aplicación server.js:
+Es el archivo donde está toda la lógica del servidor, las rutas, las respuestas y el puerto en el que escucha. Es lo que define cómo se comporta el servicio.
+
+Puerto:
+Es el canal específico por donde el servidor recibe solicitudes. En este caso el 3000, lo que significa que cualquier solicitud a localhost:3000 llega a esta aplicación.
+
+Logs:
+Son los registros de lo que va ocurriendo en el servidor. Permiten saber si algo falló, quién hizo una solicitud y en qué momento, lo que es clave para detectar problemas.

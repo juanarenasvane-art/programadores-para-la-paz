@@ -1,0 +1,6 @@
+Una plataforma que falla constantemente pierde la confianza de la comunidad y deja de ser útil sin importar qué tan bien esté construida.
+La estabilidad no es solo técnica, es lo que garantiza que la gente pueda reportar, consultar y participar cuando lo necesite.
+De pronto un servidor caído en el momento equivocado significa que un reporte urgente no llega o que una alerta no se publica a tiempo.
+Por eso monitorear el servidor, registrar errores con logs y tener el sistema actualizado no son detalles, son parte del servicio.
+También la seguridad va de la mano porque un servidor expuesto puede ser intervenido y comprometer los datos de toda la comunidad.
+En resumen que una plataforma funcione de forma estable y segura es lo mínimo que se le debe a las personas que confían en ella.
