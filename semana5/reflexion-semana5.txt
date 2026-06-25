@@ -1,0 +1,5 @@
+Las APIs permiten que una comunidad comparta información de forma organizada sin depender de nadie externo.
+Con una API se puede recibir reportes, enviar alertas o consultar datos desde cualquier dispositivo, de pronto sin que la gente ni note que hay tecnología detrás.
+Por ejemplo una junta comunal podría usarla para recibir reportes de problemas en el barrio y darles seguimiento sin depender de un chat desordenado.
+También garantiza que la información llegue estructurada y no perdida entre mensajes que nadie rastrea después.
+En resumen una API bien construida le da a cualquier comunidad la posibilidad de organizarse con información propia en vez de reaccionar al caos.

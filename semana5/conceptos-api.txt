@@ -1,0 +1,2 @@
+La ruta POST /reporte recibe un mensaje y responde con un JSON confirmando que llegó, no se puede probar desde el navegador porque necesita que se le envíen datos.
+De pronto en una app comunitaria serviría para que la gente reporte problemas del barrio o envíe alertas de forma organizada sin necesidad de nada físico.

@@ -1,0 +1,7 @@
+Que una comunidad pueda construir sus propias herramientas tecnológicas es algo que cambia bastante cómo se participa en lo digital.
+Con tecnologías abiertas como Node.js cualquiera con conocimientos básicos puede levantar un servidor sin depender de empresas externas.
+De pronto una comunidad necesita una solución específica que no existe en el mercado o que simplemente no puede pagar, y ahí es donde esto cobra sentido.
+Tener la capacidad de construirla significa autonomía real, no solo digital sino también organizativa.
+Node.js al ser código abierto tiene una comunidad enorme detrás que comparte conocimiento, lo que facilita aprender sin necesidad de recursos costosos.
+Una iniciativa que maneja su propia tecnología también tiene más control sobre los datos que genera y cómo los usa.
+En resumen Node.js le da a cualquier comunidad la posibilidad de participar en internet no solo como usuario sino como constructor.
