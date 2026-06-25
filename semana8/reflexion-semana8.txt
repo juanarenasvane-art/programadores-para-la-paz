@@ -1,0 +1,7 @@
+Una plataforma comunitaria maneja información de personas reales y eso la convierte en un objetivo si no tiene seguridad básica.
+Sin medidas mínimas cualquiera podría acceder a datos sensibles, modificar reportes o simplemente tumbar el servicio.
+De pronto una comunidad no tiene recursos para seguridad empresarial pero sí puede aplicar prácticas básicas que reducen bastante el riesgo.
+Cosas como usar contraseñas fuertes, no exponer datos en el código y usar conexiones seguras no cuestan nada y marcan la diferencia.
+También es importante porque la confianza de la comunidad en la plataforma depende de que sus datos estén protegidos.
+Si la gente siente que su información no está segura simplemente deja de usarla y el proyecto pierde sentido.
+En resumen la seguridad digital no es opcional en una plataforma comunitaria, es parte de lo que hace que funcione y que la gente confíe en ella.

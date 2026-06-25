@@ -1,0 +1,7 @@
+5 prácticas de seguridad para una plataforma digital comunitaria:
+
+1. No exponer datos personales de los usuarios en respuestas de la API ni en el código público.
+2. Usar contraseñas fuertes y no guardarlas en texto plano dentro del código.
+3. Usar conexiones seguras HTTPS para que los datos viajen cifrados.
+4. Registrar los accesos al sistema para detectar actividad sospechosa.
+5. Limitar el acceso a información sensible solo a quienes realmente lo necesitan.
