@@ -1,0 +1,5 @@
+Recibir reportes de forma estructurada es clave porque organiza la información desde que llega y no después cuando ya es un caos.
+Sin eso todo queda disperso en chats o papeles que nadie rastrea y los problemas se pierden sin solución.
+Con JSON cada reporte llega con los datos necesarios en el formato correcto, lo que hace más fácil darle seguimiento.
+De pronto el ciudadano no nota la diferencia pero del lado del sistema es lo que hace que todo funcione.
+En resumen recibir datos estructurados no es un detalle técnico, es lo que hace que una plataforma realmente sirva para algo.
