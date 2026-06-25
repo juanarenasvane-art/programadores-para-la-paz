@@ -1,0 +1,5 @@
+Mantener un registro de cambios con Git parece un paso extra al principio pero cuando algo falla uno entiende inmediatamente por qué es necesario.
+Saber qué cambió, cuándo y quién lo hizo es lo que permite encontrar un error sin revisar todo el proyecto desde cero.
+También permite experimentar sin miedo porque si algo sale mal siempre se puede volver a una versión anterior que funcionaba.
+De pronto trabajando solo no se nota tanto pero en equipo es indispensable porque todos necesitan saber en qué estado está el proyecto.
+En resumen Git no es solo guardar archivos, es trabajar con criterio y saber exactamente qué se hizo y por qué.
