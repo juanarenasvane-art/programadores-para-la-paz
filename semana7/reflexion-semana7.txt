@@ -1,0 +1,6 @@
+Poder registrar y consultar reportes en una plataforma cambia bastante la forma en que una comunidad gestiona sus problemas.
+Sin eso todo queda en conversaciones de WhatsApp o voz a voz que nadie puede rastrear después.
+Con un sistema así cada reporte queda guardado, tiene un id y se puede consultar en cualquier momento.
+De pronto el problema no se resuelve de inmediato pero al menos queda registrado y no se pierde.
+También permite identificar qué tipos de problemas se repiten más y priorizar soluciones con información real.
+En resumen tener una plataforma para registrar incidencias no es lujo, es lo mínimo que necesita una comunidad organizada.
