@@ -1,0 +1,6 @@
+Saber usar la terminal parece un detalle menor al principio pero en la práctica es de las primeras cosas que uno agradece haber aprendido.
+Con comandos básicos como pwd, ls, mkdir y cd uno puede navegar y organizar un proyecto mucho más rápido que haciendo todo con clics.
+De pronto al principio uno no le ve el sentido pero cuando el proyecto empieza a crecer se entiende por qué es importante saber exactamente dónde está cada cosa.
+También es clave para usar Git porque casi todo el flujo de trabajo pasa por la terminal, desde crear archivos hasta subir cambios a GitHub.
+Sin ese conocimiento básico es difícil seguir instrucciones técnicas o trabajar en equipo porque se asume que uno ya sabe moverse por ahí.
+En resumen la terminal no es solo una herramienta, es la base de casi todo lo que viene después en el desarrollo.

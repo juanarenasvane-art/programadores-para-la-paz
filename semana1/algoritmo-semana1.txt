@@ -7,4 +7,4 @@ Algoritmo para compartir información confiable en internet:
 5. Comparar con otra fuente distinta para ver si coinciden, si no coinciden algo está mal.
 6. Si el contenido suena muy alarmista o busca generar reacciones fuertes hay que desconfiar.
 7. Si pasa todo lo anterior compartirla con contexto para que quien la reciba también entienda de dónde viene.
-8. Si en algún paso hay duda lo mejor es no compartir, no pasa nada con esperar.
+8. Si en algún paso hay duda lo mejor es no compartir, no pasa nada con esperar.  
